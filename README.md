@@ -1,0 +1,1 @@
+device_realme_sm7125-common
